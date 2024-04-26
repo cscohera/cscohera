@@ -7,7 +7,7 @@
 
 - I’m currently learning **C, Javascript, Mysql, Java, and Python**
 
-- Ask me about **this**
+- Ask me about **My Next CyberSecurity Project**
 
 - 📫 How to reach me **cscohera@gmail.com**
 
