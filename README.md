@@ -9,9 +9,9 @@
 
 - Ask me about **My Next CyberSecurity Project**
 
-- 📫 How to reach me **cscohera@gmail.com**
+- How to reach me **cscohera@gmail.com**
 
-- ⚡ Fun fact **I am the Risk Manager for UCF Knights Runners**
+- Fun fact **I am the Risk Manager for UCF Knights Runners**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
