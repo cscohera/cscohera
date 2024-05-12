@@ -9,8 +9,6 @@
 
 - Ask me about **My KeyLogger Project**
 
-- How to reach me **cscohera@gmail.com**
-
 - Fun fact **I am the Risk Manager for UCF Knights Runners**
 
 <h3 align="left">Connect with me:</h3>
