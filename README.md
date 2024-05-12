@@ -7,7 +7,7 @@
 
 - I’m currently learning **C, Javascript, Mysql, Java, and Python**
 
-- Ask me about **My Next CyberSecurity Project**
+- Ask me about **My KeyLogger Project**
 
 - How to reach me **cscohera@gmail.com**
 
