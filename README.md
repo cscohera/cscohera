@@ -3,7 +3,7 @@
 <h3 align="center">Senior Information Technology Major At The University of Central Florida</h3>
 
 
-- I’m currently working on **CompTIA Security+**
+-  I'm Currently working on **Network Plus** and **Splunk Certified Power User**
 
 - I’m currently building my skills in **Python, Bash, Java, and Splunk**
 
