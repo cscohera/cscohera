@@ -7,7 +7,7 @@
 
 - I’m currently building my skills in **Python, Bash, Java, and Splunk**
 
-- Ask me about **My KeyLogger Project**
+- Ask me about **Discord Weatherbot Project** or my **My KeyLogger Project**
 
 - Fun fact **I am the Risk Manager for UCF Knights Runners**
 
