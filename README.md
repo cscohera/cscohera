@@ -5,7 +5,7 @@
 
 - I’m currently working on **CompTIA Security+**
 
-- I’m currently learning **C, Javascript, Mysql, Java, and Python**
+- I’m currently building my skills in **Python, Bash, Java, and Splunk**
 
 - Ask me about **My KeyLogger Project**
 
